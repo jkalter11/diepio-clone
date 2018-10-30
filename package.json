@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "http://github.com/gamecook/phaser-template",
-  "author": "Jesse Freeman",
+  "author": "Joseph Kalter",
   "devDependencies": {
       "grunt-open": "~0.2.3",
       "grunt": "~0.4.2",
